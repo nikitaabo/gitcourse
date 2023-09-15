@@ -1,7 +1,7 @@
  Hello World!
 888999
 good bye!
-new line from user1
+line from user2
 another string
 Line from user1
 another line from user1
