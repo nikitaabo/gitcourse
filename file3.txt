@@ -1,3 +1,4 @@
 Hello
 new branch
 line from user2
+fix bug
